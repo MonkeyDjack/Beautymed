@@ -57,7 +57,8 @@
 }
 .ticket_block{
 	display: block;
-	width: 320px;
+	width: 280px;
+	margin-right: 0;
 	margin:40px auto;
 	
 }

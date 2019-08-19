@@ -232,6 +232,10 @@ header ul li a{
 	border-right: 1px solid #49c2c6; 
 }
 
+.program__content h2{
+	text-transform: uppercase;
+}
+
 .programs{
 	background-image: url(../img/pat3.png);
 	background-repeat: repeat-y;
