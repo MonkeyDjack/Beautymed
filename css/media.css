@@ -1,0 +1,131 @@
+@media screen and (max-width:1030px){
+	.mapouter{
+		width: 320px;
+		height: 320px;
+	}
+}
+
+
+
+@media screen and (max-width:910px){
+
+	.ban_title{
+	font-size: 16px;
+}
+}
+
+
+@media screen and (max-width:810px){
+	.menu-btn {
+    display: block !important;
+}
+.menu {
+	position: absolute;
+	top:70px;
+	right:0px;
+	width: 100%;
+	background-color: #222222;
+	display: none;
+    margin: 0 !important;
+    padding: 3px 15px !important;
+    list-style: none;
+    z-index: 99;
+
+}
+
+.speak_block{
+	padding-top: 0;
+}
+.title{
+	width: 320px;
+	float: none;
+	margin: 20px auto;
+	position: relative;
+}
+
+.prog_block{
+	padding-top: 0;
+	width: 100%;
+
+}
+
+
+
+
+.tickets{
+	width: 100%;
+}
+.ticket_block{
+	display: block;
+	width: 320px;
+	margin:40px auto;
+	
+}
+
+.ticket_block a{
+	left:75px;
+}
+.map_info{
+	width: 100%;
+	float:none;
+	text-align: center;
+}
+
+.foo_org{
+	margin-top: 100px;
+	width: 100%;
+	float:none;
+	text-align: center;
+}
+.mapouter{
+	width: 100%;
+}
+
+.gmap_canvas{
+	width: 100%;
+}
+
+.ban_text{
+	padding-top: 80px;
+}
+.reg_button{
+	width: 100%;
+}
+
+.flex_item{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.menu li{
+	margin-left:4px;
+		display: block ;
+		padding: 5px !important;
+		z-index: 99;
+	}
+
+	.menu li a{
+		display: block ;
+		text-decoration: none;
+		line-height: 28px;
+	}
+}
+
+
+
+@media screen and (max-width:530px){
+		.ban_title{
+	font-size: 10px;
+}	
+
+.Stage_jbeeb_3{
+	width: 100% !important;
+}
+.time_container{
+	width: 100%;
+}
+.reg_button{
+	font-size: 12px;
+}
+
+
+}
