@@ -138,5 +138,7 @@
 .banner{
 	background-position: 32% 45%;
 }
-
+.transp_bg{
+	display: none;
+}
 }
