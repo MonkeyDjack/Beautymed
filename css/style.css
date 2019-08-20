@@ -639,7 +639,7 @@ iframe{
   border-color: #F77A52;
   color: #F77A52;
 }
-.ui-form input[type="submit"] {
+.ui-form button{
   width: 100%;
   padding: 0;
   line-height: 42px;
