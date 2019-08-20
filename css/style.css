@@ -612,6 +612,7 @@ iframe{
   line-height: 40px;
   background: none;
   border-width: 0;
+  border-radius: 0;
   border-bottom: 2px solid #4a90e2;
   transition: all 0.2s ease;
 }
@@ -643,6 +644,7 @@ iframe{
   padding: 0;
   line-height: 42px;
   background: #49c2c6;
+  border-radius: 0;
   border-width: 0;
   color: white;
   font-size: 20px;
