@@ -43,6 +43,12 @@
 	position: relative;
 }
 
+.speak_block{
+	width: 80%;
+	float: none;
+	margin:0 auto;
+}
+
 .prog_block{
 	padding-top: 0;
 	width: 100%;

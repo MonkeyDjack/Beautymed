@@ -298,9 +298,9 @@ header ul li a{
 }
 
 .speak_block { /* Masonry container */
-  column-count: 2;
+  width: 50%;
+  float: left;
   padding-top: 105px;
-  column-gap: 1em;
 }
 
 .speaker_block { /* Masonry bricks or child elements */
@@ -329,7 +329,7 @@ header ul li a{
 .speaker_block p{
 	margin: 0;
 	font-weight: 300;
-	font-size: 14px;
+	font-size: 16px;
     line-height: 1.42857143;
     color: #333;
 }
@@ -503,6 +503,11 @@ list-style: none;
 
 footer{
 	margin-top: 40px;
+	background-image: url(../img/pat3.png);
+	background-repeat: repeat-y;
+	background-size: 24%;
+    background-position: right top;
+    background-attachment: fixed;
 }
 .map_info{
 	font-family: 'HelveticaNeueCyr',sans-serif;
@@ -535,6 +540,7 @@ footer{
 .foo_org{
 	float:right;
 	width: 380px;
+	background-color: white;
 }
 
 .foo_org p{
