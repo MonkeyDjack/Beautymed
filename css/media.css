@@ -92,6 +92,8 @@ iframe{
 
 .ban_text{
 	padding-top: 80px;
+	width: 90%;
+	margin: 0 auto;
 }
 .reg_button{
 	width: 100%;
