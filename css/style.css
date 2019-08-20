@@ -123,12 +123,35 @@ header ul li a{
     color: white;
 
 }
+.ban_info{
+	margin-top: 50px;
+	font-size: 16px;
+	position: relative;
+	padding: 20px;
+}
 
+.left-bottom{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	left: 0;
+	bottom: 10px;
+	border-left: 1px solid #49c2c6;
+	border-bottom: 1px solid #49c2c6;
+}
+.right-top{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	right: 0;
+	top: 10px;
+	border-right: 1px solid #49c2c6;
+	border-top: 1px solid #49c2c6;
+}
 .ban_text{
 	color: #fff;
 	padding-top: 100px;
 	    margin-left: 40%;
-	padding-bottom: 300px;
 	width: 50%;	
 }
 
@@ -472,7 +495,9 @@ list-style: none;
 	background-color: #5b7284;
 	border-radius: 30px;
 	bottom:-20px;
-	left:55px;
+	left:50%;
+	margin-left: -90px;
+
 }
 
 footer{
@@ -525,4 +550,10 @@ footer{
 	background:none!important;
 	height:400px;
 	width:100%;
+}
+
+
+iframe{
+	width: 600px;
+	height:500px;
 }
